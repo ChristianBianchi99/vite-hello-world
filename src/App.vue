@@ -13,6 +13,6 @@ export default {
   </div>
 </template>
 
-<style lang="">
+<style scoped>
   
 </style>
